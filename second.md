@@ -1,1 +1,1 @@
-this is the second markdown file
+this is the second markdown file. bug ficed in master branch.
